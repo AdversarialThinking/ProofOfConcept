@@ -1,4 +1,4 @@
-# Case Study Title: CS-SE-001 - Visual Masking Analysis
+# Case Study Title: CS-SE-000 - Visual Masking Analysis
 
 ## Focus Area:
 
