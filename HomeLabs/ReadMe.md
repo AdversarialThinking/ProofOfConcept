@@ -8,12 +8,12 @@ This section contains labs done in my "Home Lab" environment as part of my broad
 * **Network Architecture:** TP-Link Archer AX21 AX1800 Dual Band WiFi 6 Router (isolated, offline LAN)
 
 ## Lab Directory
-Each project will be labeled using a lab ID (i.e. L-01, L-02, L-03). Each lab will contain documentation that follows the full lifecycle audit process to demonstrate the proof-of-concept for GRC. 
+Each project will be labeled using a lab ID (i.e. L-000, L-001, L-002). Each lab will contain documentation that follows the full lifecycle audit process to demonstrate the proof-of-concept for GRC. 
 
 Example:
 
-* **L-01:** Project folder that outlines the vulnerability being tested, the associated CVE, and other relevant information.
-    * **L-01-RMF:** The Risk Management Framework (RMF) subdirectory that houses the artifacts required for RMF compliance.
+* **L-000:** Project folder that outlines the vulnerability being tested, the associated CVE, and other relevant information.
+    * **L-000-RMF:** The Risk Management Framework (RMF) subdirectory that houses the artifacts required for RMF compliance.
       * **0-Prepare:** The "Prepare" phase subdirectory. This phase establishes the foundational organizational context by defining the system boundary, identifying key stakeholders, and conducting an initial asset inventory to ensure a comprehensive scope for all subsequent risk management activities. This section will include the following:
         * **0A-Roles-and-Responsibilities:** A formal designation of key stakeholders and security personnel to ensure clear accountability and authorized oversight throughout the RMF lifecycle.
         * **0B-Asset-Inventory:** The asset inventory serves as a comprehensive catalog of all hardware, software, and data assets within the system boundary to ensure 100% visibility and accountability for control implementation.
