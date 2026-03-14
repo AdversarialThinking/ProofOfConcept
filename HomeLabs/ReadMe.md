@@ -14,21 +14,21 @@ Example:
 
 * **L-01:** Project folder that outlines the vulnerability being tested, the associated CVE, and other relevant information.
     * **L-01-RMF:** The Risk Management Framework (RMF) subdirectory that houses the artifacts required for RMF compliance.
-      * **L-01-Prepare:** The "Prepare" phase subdirectory. This section outlines the scope of the audit. This section will also contain the following:
-        * **Business-Impact-Analysis:** The BIA identifies which mission-essential functions are most critical and the potential consequences of their disruption.
-        * **Gap-Analysis:** Determine which controls are already implemented and which controls need to be established to ensure compliance (architectural gaps).
-      * **L-01-Categorize:** The "Categorize" phase subdirectory. This section determines the impact of a loss of confidentiality, integrity, or availability (CIA triad) on the organization's mission and assets using the BIA.
-      * **L-01-Select-and-Implement:** The "Select and Implement" phase subdirectory. This section outlines the security controls that are selected and implemented within the system and its operational environment based on the impact levels. This section will include the following:
-        * **Gap-Analysis-Review:** Review the previous gap analysis to identify missing controls in the system's architectural design to help develop the DRP.
-        * **Disaster-Recovery-Planning:** This section outlines the organization's plans on how to protect and recover the system.
-      * **L-01-Assess:** The "Assess" phase subdirectory. This section outlines the "testing" phase to determine if the controls are implemented correctly and operating as intended. This section will include the following:
-        * **Examination:** Reviewing documentation, system configurations, and logs to obtain evidence of control effectiveness.
-        * **Interviewing** Discussing security practices with staff to clarify how controls are managed.
-        * **Testing:** Actively exercising objects (like networks or software) to compare expected behavior with actual behavior.
-          * **Vulnerability-Scanning:** Using automated tools to identify known flaws in an active system.
-          * **Penetration-Testing:** Using tools in an attempt to exploit the identified vulnerabilities to demonstrate the real-world risks.
-            * **Gap-Analysis-Second-Review:** Compare vulnerability findings against the security plan outlined in the DRP to see where the implemented controls failed to meet the requirement. This review provides a more technical deep-dive.
-            * **Security-Assessment-Report:** After scanning and testing, the results are summarized in the SAR. This data will be used to develop the risk heatmap.
-            * **Risk-Heatmap:** Results from the vulnerability scanning phase and penetration testing phase (outlined in the SAR) are used to create a risk heatmap to visually display and quantify security and privacy information by mapping the likelihood of a breach or exploitation.
-            * **Plan-of-Action-and-Milestones:** The Plan of Action and Milestones (POA&M) document outlines vulnerabilities that cannot be fixed immediately. This provides a plan and timeline for remediation.
-      * **L-01-Authorize-and-Monitor:** The "Authorize and Monitor" phase subdirectory. This section outlines whether or not to accept the risk based on the assessment results. The system is then continuously monitored for changes in its security posture using a continuous gap analysis.
+      * **1-L-01-Prepare:** The "Prepare" phase subdirectory. This section outlines the scope of the audit. This section will also contain the following:
+        * **1-Business-Impact-Analysis:** The BIA identifies which mission-essential functions are most critical and the potential consequences of their disruption.
+        * **2-Gap-Analysis:** Determine which controls are already implemented and which controls need to be established to ensure compliance (architectural gaps).
+      * **2-L-01-Categorize:** The "Categorize" phase subdirectory. This section determines the impact of a loss of confidentiality, integrity, or availability (CIA triad) on the organization's mission and assets using the BIA.
+      * **3-L-01-Select-and-Implement:** The "Select and Implement" phase subdirectory. This section outlines the security controls that are selected and implemented within the system and its operational environment based on the impact levels. This section will include the following:
+        * **1-Gap-Analysis-Review:** Review the previous gap analysis to identify missing controls in the system's architectural design to help develop the DRP.
+        * **2-Disaster-Recovery-Planning:** This section outlines the organization's plans on how to protect and recover the system.
+      * **4-L-01-Assess:** The "Assess" phase subdirectory. This section outlines the "testing" phase to determine if the controls are implemented correctly and operating as intended. This section will include the following:
+        * **1-Examination:** Reviewing documentation, system configurations, and logs to obtain evidence of control effectiveness.
+        * **2-Interviewing** Discussing security practices with staff to clarify how controls are managed.
+        * **3-Testing:** Actively exercising objects (like networks or software) to compare expected behavior with actual behavior.
+          * **1-Vulnerability-Scanning:** Using automated tools to identify known flaws in an active system.
+          * **2-Penetration-Testing:** Using tools in an attempt to exploit the identified vulnerabilities to demonstrate the real-world risks.
+            * **1-Gap-Analysis-Second-Review:** Compare vulnerability findings against the security plan outlined in the DRP to see where the implemented controls failed to meet the requirement. This review provides a more technical deep-dive.
+            * **2-Security-Assessment-Report:** After scanning and testing, the results are summarized in the SAR. This data will be used to develop the risk heatmap.
+            * **3-Risk-Heatmap:** Results from the vulnerability scanning phase and penetration testing phase (outlined in the SAR) are used to create a risk heatmap to visually display and quantify security and privacy information by mapping the likelihood of a breach or exploitation.
+            * **4-Plan-of-Action-and-Milestones:** The Plan of Action and Milestones (POA&M) document outlines vulnerabilities that cannot be fixed immediately. This provides a plan and timeline for remediation.
+      * **5-L-01-Authorize-and-Monitor:** The "Authorize and Monitor" phase subdirectory. This section outlines whether or not to accept the risk based on the assessment results. The system is then continuously monitored for changes in its security posture using a continuous gap analysis.
