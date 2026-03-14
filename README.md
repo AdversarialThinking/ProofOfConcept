@@ -1,3 +1,31 @@
 ![Portfolio Banner](Images/ISBANNERGH.jpg)
-# ProofOfConcept
-This repository serves as a centralized portfolio for my cybersecurity research, system hardening, and defensive architecture labs. Each project follows a full life cycle audit audit approach: identifying and exploiting a vulnerability (Red Team), implementing the proper controls to mitigate the vulnerability (Blue Team), and documenting the mitigation strategy (GRC/Audit). 
+# Proof-of-Concept Portfolio
+**Zackary Barnett | Undergraduate pursuing a B.S. in Cybersecurity++ (GRC) | NSA-Designated CAE-CD Program**
+Securing the human element and digital infrastructure through risk-based governance and defensive engineering.
+
+## Professional Profile
+
+I am a Cybersecurity professional specializing in **Governance, Risk, and Compliance (GRC).** My approach integrates a deep interest in **Criminology** and **Psychology** with technical rigor, focusing on how human behavior influences systemic risk. I am currently architecting and planning a **"CISO-in-a-Box"** framework to bring enterprise-level security governance to SMBs.
+
+## Portfolio Highlights
+
+**Specialized Home Lab Setup**
+A dedicated environment for testing security controls, kernel hardening, and resource-efficient Linux administration.
+* **The Tech:** A custom-hardened Arch Linux environment (transitioning to a custom BlackArch equivelant) running on a low-resource ASUS mobile platform dedicated for penetration testing and 2x Raspberry Pi 3 Model B+ for penetration testing target machines.
+* **The GRC Angle:** This lab serves as a case study in **Security-First Engineering.** I document the process of disabling unnecessary services and tuning the kernel to maintain a minimal attack surface while mapping technical configurations to NIST technical controls.
+* **Key Outcome:** Successful implementation of a functional security lab environment to demonstrate GRC proof-of-concept.
+
+**Social Engineering & Psychology Case Studies**
+An analytical deep-dive into the "Human Firewall" and the mechanics of deception.
+* **The Focus:** Analyzing the intersection of **Criminology** and **Social Psychology** in modern phishing and pretexting campaigns.
+* **The GRC Angle:** These studies inform **Security Awareness Training (SAT)** and **Administrative Controls.** By analyzing the psychological drivers behind a breach, I develop policy recommendations that account for human vulnerability--essential for ISO 27001 compliance.
+* **Key Outcomes:** A repository of threat-actor profiles and mitigation strategies designed to reduce "Human Risk" in corporate and small-business environments.
+
+## Future Roadmap
+* **2026:** Expanding testing capabilities with a high-performance **Framework 16** mobile lab for local LLM analysis and full-scale virtualization.
+* **Long-Term:** Pursuing Doctorate-level research into technical vulnerabilities (e.g., zero-day exploits) and how they are exploited by specific psychological archetypes and political entities using data science and psychological research.
+
+## Let's Connect
+
+LinkedIn: https://www.linkedin.com/in/zackary-barnett-grc
+
