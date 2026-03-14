@@ -40,7 +40,7 @@ Example:
           * **4CA-Vulnerability-Scanning:** Using automated tools to identify known flaws in an active system.
           * **4CB-Penetration-Testing:** Using tools in an attempt to exploit the identified vulnerabilities to demonstrate the real-world risks.
             * **4CBA-RoE:** The "Rules of Engagement" document that outlines the scope and legal authorization for the penetration test.
-            * **4CBB-Gap-Analysis-Second-Review:** Compare vulnerability findings against the security plan outlined in the DRP to see where the implemented controls failed to meet the requirement. This review provides a more technical deep-dive.
+            * **4CBB-Gap-Analysis-Second-Review:** Compare vulnerability findings against the security plan outlined in the SSP to see where the implemented controls failed to meet the requirement. This review provides a more technical deep-dive.
             * **4CBC-Security-Assessment-Report:** After scanning and testing, the results are summarized in the SAR. This data will be used to develop the risk heatmap.
             * **4CBD-Risk-Heatmap:** Results from the vulnerability scanning phase and penetration testing phase (outlined in the SAR) are used to create a risk heatmap to visually display and quantify security and privacy information by mapping the likelihood of a breach or exploitation.
             * **4CBE-Plan-of-Action-and-Milestones:** The Plan of Action and Milestones (POA&M) document outlines vulnerabilities that cannot be fixed immediately. This provides a plan and timeline for remediation.
