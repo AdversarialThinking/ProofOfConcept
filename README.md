@@ -28,7 +28,7 @@ An analytical deep-dive into the "Human Firewall" and the mechanics of deception
 ## Transparency & Ethics Statements
 **Compliance Note:** In alignment with Google's Generative AI terms, I maintain the original digital provenance (SynthID) of photos used for my portfolio and profile. Any modifications or cropping are purely for design layout and do not intend to misrepresent AI-generated content as human-created art. All digital art (unless otherwise noted) were generated using Google Gemini.
 
-In addition to the use of AI-generated images using Gemini, I leverage Large Language Models (LLMs) as a "force multiplier" for drafting & templating, code auditing, and scenerio simulation. 
+In addition to the use of AI-generated images using Gemini, I leverage Large Language Models (LLMs) as a "force multiplier" for drafting & templating, code auditing, and scenario simulation. 
 
 **Human-in-the-Loop Policy**
 The "Buck Stops Here." While AI assists in creation process, 100% of the technical findings, risk assessments, and governance recommendations in this portfolio have been reviewed, verified, and validated by me. AI is a tool for efficiency; human judgement is the authority for security.
